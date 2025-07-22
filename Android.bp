@@ -1,0 +1,8 @@
+subdirs = [
+    "sensors",    
+    "hidl",
+    "tinyalsa",
+    "health",
+    "gatekeeper",
+    "hardware",
+]
